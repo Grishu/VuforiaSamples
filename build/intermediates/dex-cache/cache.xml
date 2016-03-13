@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/paolo/Downloads/VuforiaSamples-5-5-9/app/libs/Vuforia.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f5b9729417d9e86d9bba6068e4a84f05ace53fd4">
+        <dex dex="/Users/paolo/Downloads/VuforiaSamples-5-5-9/app/build/intermediates/pre-dexed/debug/Vuforia-b3eea1b15316ce50650549aba4cbff69eca36aec.jar" />
+    </item>
+
+</items>
